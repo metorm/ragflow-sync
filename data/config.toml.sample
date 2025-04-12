@@ -1,0 +1,24 @@
+[db]
+db_path = "data/db.sqlite"
+
+[outline]
+outline_url = "https://outline.xxx.com"
+outline_token = "xxx"
+minimum_content_length = 4
+
+[ragflow]
+ragflow_url = "https://rag.xxx.ink"
+ragflow_token = "xxx"
+target_data_set = "a3aed0fca7461af09a3c0242ac1fa006"
+update_expired = true
+delete_non_upstream = true
+auto_start_parse = true
+
+[meta_map]
+id = "原文ID"
+title = "原文标题"
+#sub_url = "原文站内url"
+site_url = "原文URL"
+created_by = "原文作者"
+updated_by = "最后编辑者"
+updated_at = "最后编辑时间"
