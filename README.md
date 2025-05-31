@@ -5,6 +5,10 @@ This tool synchronizes documents between Outline and RAGFlow. It reads documents
 
 该工具可在 Outline 和 RAGFlow 之间同步文档。它从 Outline 读取文档，检查更新，并在必要时将其上传到 RAGFlow。它还能处理文档删除和元数据更新。
 
+此处鸣谢开源项目[outline-python-api](https://github.com/Yoshino-s/outline-python-api)
+
+Thanks to [outline-python-api](https://github.com/Yoshino-s/outline-python-api)
+
 ## Installation /  安装部署
 1. Install dependencies / 安装依赖
 ```bash
